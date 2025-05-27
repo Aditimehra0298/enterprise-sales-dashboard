@@ -1,0 +1,4 @@
+Product_ID,Region,Stock_Level,Reorder_Level
+P1001,East,8,5
+P1002,West,2,4
+P1003,South,1,3
